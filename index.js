@@ -1,4 +1,6 @@
-fetch('https://anapioficeandfire.com/api/books')
+fetch('https://anapioficeandfire.com/api/books') {
+  .then 
+}
 
 function fetchBooks('https://anapioficeandfire.com/api/books') {
   .then((renderBooks) => 
