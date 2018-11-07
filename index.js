@@ -1,5 +1,6 @@
 fetch('https://anapioficeandfire.com/api/books') {
-  .then 
+  .then((fetchBooks)
+  )
 }
 
 function fetchBooks('https://anapioficeandfire.com/api/books') {
