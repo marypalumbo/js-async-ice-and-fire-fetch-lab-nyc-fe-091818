@@ -1,4 +1,4 @@
-fetch('https://anapioficeandfire.com/api/books') {
+fetch('https://anapioficeandfire.com/api/books')
   .then((fetchBooks) => {
     
   }
