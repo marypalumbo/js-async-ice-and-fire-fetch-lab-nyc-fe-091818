@@ -1,6 +1,6 @@
 fetch('https://anapioficeandfire.com/api/books')
   .then((fetchBooks) => {
-    
+    return booksJson
   }
   )
 }
